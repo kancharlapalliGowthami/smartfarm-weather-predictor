@@ -21,7 +21,8 @@ SmartFarm is an AI-powered mobile solution designed to help small and marginal f
 
 ## 🧪 MVP Screens
 
-![SmartFarm MVP](./SmartFarm_MVP_Mockup_Clean.png)
+![SmartFarm MVP](![image 1](https://github.com/user-attachments/assets/b87411af-7b88-4a64-ae34-0f855811c3f9)
+)
 
 ## 📈 Future Developments
 
@@ -33,12 +34,13 @@ SmartFarm is an AI-powered mobile solution designed to help small and marginal f
 
 ## 📷 Demo Video
 
-👉 *[Insert your YouTube/Vimeo link here]*
+👉 *[https://youtu.be/km95-NMT6lU?si=fAC-dqoSoEmzTOnq]*
 
 ## 🔗 Useful Links
 
-- Project Deck: [Link to Google Slides or PPT]
-- MVP Link: [Google Drive or Figma link]
+- Project Deck: [https://docs.google.com/presentation/d/1mW4-GOUYe9Au6Fzd2rw0XamtSQXwTuCIl6jtDnEtuGA/edit?usp=drive_link]
+- MVP Link: [https://drive.google.com/file/d/1XMzGMI0-pCQCYL0wxpI_p1kfjQJfGPp3/view?usp=drive_link![image](https://github.com/user-attachments/assets/6daca6da-3115-4a98-8b97-4ae5a3d06b9f)
+]
 
 ---
 
